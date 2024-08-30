@@ -136,6 +136,11 @@ Ensure you are proficient with the following development tools:
     + **IMPORTANT: Do not attempt to hack or overload the server. Please use it responsibly.**
     + Create and connect to a workspace to use the terminal or VSCode (after installation).
     + We recommend using VSCode with the "Rust Analyzer" and "CodeLLDB" plugins.
+    + You can make your workspace with `Create Workspace` button.
+    + Even after the workspace has been created, it may take a considerable amount of time for the initial script to complete (approximately 20 minutes). Please be patient and wait. You should continue to wait until the log window displays the message: "HEAD is now at be2e9f2 Merge pull request #298 from ucb-bar/dev."
+    + Note that whenever you create a new workspace, it will remove the existing `~/chipyard` directory and re-clone it.
+
+
 
 
 ## Grading & Honor Code
